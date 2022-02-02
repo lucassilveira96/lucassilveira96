@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lucas SIlveira
 - 👀 I’m interested in Kotlin Spring Boot and Advanced PHP and JAVA and GO lang
 - 🌱 I’m currently learning Kotlin Spring Boot and Advanced PHP and JAVA and GO lang
--    I’m looking to collaborate on egSYS System
+- 💻 I’m looking to collaborate on egSYS System
 - 📫 How to reach me lucas.silva.silveira@rede.ulbra.br
 
 <div>
