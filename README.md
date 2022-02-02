@@ -4,6 +4,8 @@
 - 💻 I’m looking to collaborate on egSYS System
 - 📫 How to reach me lucas.silva.silveira@rede.ulbra.br
 
+![Snake animation](https://github.com/lucassilveira96/lucassilveira96/blob/output/github-contribution-grid-snake.svg)
+
 <div>
 <a href="https://github.com/lucassilveira96/">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassilveira96&layout=compact&langs_count=7&theme=dark"/>
