@@ -10,7 +10,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassilveira96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-### Ferramentas e Tecnologias
+### Technologies:
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
 
-### Contatos:
+### Contacts:
 
 <div>
 <a href="https://instagram.com/silveira_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
