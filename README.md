@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Lucas SIlveira
 - 👀 I’m interested in Kotlin Spring Boot and Advanced PHP and JAVA and GO lang
 - 🌱 I’m currently learning Kotlin Spring Boot and Advanced PHP and JAVA and GO lang
-- 💻 I’m looking to collaborate on egSYS System
+- 💻  I'm currently working 
 - 📫 How to reach me lucas.silva.silveira@rede.ulbra.br
 
 ![Snake animation](https://github.com/lucassilveira96/lucassilveira96/blob/output/github-contribution-grid-snake.svg)
